@@ -1,0 +1,5 @@
+print("*** SIMPLE INTEREST ***")
+p = int(input("Enter The Principle: "))
+t = int(input("Enter The Tenure: "))
+r = float(input("Enter The Rate: "))
+print("Simple Interest Is: ",(p*t*r)/100)
